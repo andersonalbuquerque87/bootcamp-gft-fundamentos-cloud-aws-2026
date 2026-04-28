@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☁️ Bootcamp GFT - Fundamentos de Cloud com AWS 2026
 
 Repositório contendo os desafios práticos desenvolvidos durante o bootcamp.
@@ -9,3 +10,7 @@ Repositório contendo os desafios práticos desenvolvidos durante o bootcamp.
 ## 👨‍💻 Autor
 
 Anderson Albuquerque
+=======
+# bootcamp-gft-fundamentos-cloud-aws-2026
+Repositório com desafios práticos do Bootcamp GFT - Fundamentos de Cloud com AWS 2026
+>>>>>>> 216121d27f079f6bb6ddf73ca3501ce7518f6881
