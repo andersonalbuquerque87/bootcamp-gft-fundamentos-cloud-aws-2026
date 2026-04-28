@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ☁️ Bootcamp GFT - Fundamentos de Cloud com AWS 2026
 
 Repositório contendo os desafios práticos desenvolvidos durante o bootcamp.
